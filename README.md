@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @saminoor-Nabil
-- 👀 I’m interested in new tech
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on new projects for better understanding on data sciecne
-- 📫 you can always reach me here mohammad.saminoor.rahman@g.bracu.ac.bd
 
 - <div align="center">
   <h1>👋 Hello, I'm Mohammad Saminoor Rahman</h1>
@@ -19,7 +14,9 @@
 ### 🔭 About Me
 * 🌱 I graduated with a B.Sc. in Computer Science from BRAC University.
 * 💡 Passionate about building robust web applications, responsive user interfaces, and secure IT workflows.
+* 💞️ I’m looking to collaborate on new projects for better understanding on data sciecne
 * 🔬 Co-authored research published in IEEE (*Melanoma Classification and Localization*)[cite: 1].
+* 📫 you can always reach me here saminoor.nabil@gmail.com
 
 ---
 
